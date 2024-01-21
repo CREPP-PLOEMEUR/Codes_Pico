@@ -1,7 +1,11 @@
 # Raspberri Pi Pico
 
+## Sommaire
 
-Les raspberry Pi Pico sont des microcontrôleurs developpés par Raspberry Pi
+- Moteurs bipolaires : Un code pour gérer les moteurs bipolaires sous Pico
+
+
+Les raspberry Pi Pico sont des microcontrôleurs développés par Raspberry Pi
 
 ## Brochage
 
